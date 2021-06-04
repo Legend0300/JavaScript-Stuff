@@ -1,0 +1,12 @@
+.continer {
+    justify-content: center;
+    text-align: center;
+}
+
+.form-control {
+    width: 100px ;
+}
+
+.heading {
+    padding-bottom: 100px;
+}
